@@ -1,0 +1,5 @@
+PROJECT: Palindrome Finder;
+
+Uses Stack as the background data structure.
+
+Contains Test file (PalindromeFinderTest) which tests various possible palindromes
